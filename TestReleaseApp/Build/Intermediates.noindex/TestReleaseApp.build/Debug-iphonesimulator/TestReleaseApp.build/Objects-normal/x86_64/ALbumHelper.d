@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/karisli/karis-space/TestReleaseApp/TestReleaseApp/ALbumHelper.m \
+  /Users/karisli/karis-space/TestReleaseApp/TestReleaseApp/ALbumHelper.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Modules/module.modulemap \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/UIView+TZLayout.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZProgressView.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZPhotoPickerController.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZImageRequestOperation.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZPhotoPreviewCell.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZPhotoPreviewController.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZLocationManager.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZVideoPlayerController.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZImagePickerController.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZImageManager.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZImageCropManager.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZGifPhotoPreviewController.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZAssetModel.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZAssetCell.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/NSBundle+TZImagePicker.h \
+  /Users/karisli/karis-space/TestReleaseApp/Build/Products/Debug-iphonesimulator/TZImagePickerController/TZImagePickerController.framework/Headers/TZImagePickerController-umbrella.h \
+  /Users/karisli/karis-space/TestReleaseApp/TestReleaseApp/PHAsset+CBInfo.h

@@ -1,0 +1,20 @@
+PODS:
+  - LookinServer (1.0.0)
+  - MJRefresh (3.4.3)
+
+DEPENDENCIES:
+  - LookinServer
+  - MJRefresh
+
+SPEC REPOS:
+  trunk:
+    - LookinServer
+    - MJRefresh
+
+SPEC CHECKSUMS:
+  LookinServer: 0002891cd3cec5e082a910e897dfe71b4f06b89e
+  MJRefresh: 53e3e3219f204425ee6d3e62e8733d3295944cd6
+
+PODFILE CHECKSUM: ea6a3d71fc53cfca54948374812e7c77f01edc80
+
+COCOAPODS: 1.9.1

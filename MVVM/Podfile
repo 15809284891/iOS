@@ -1,0 +1,27 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'MVVM_Demo' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'ReactiveObjC'
+      pod 'Masonry', '~>1.1.0'
+      pod 'AFNetworking', '~> 3.1.0'
+      pod 'MBProgressHUD', '~> 1.1.0'
+      pod 'SDWebImage', '~> 4.3.2'
+      pod 'LinqToObjectiveC', '~> 2.1.0'
+      pod 'FMDB', '~> 2.7.2'
+      pod 'MJRefresh', '~> 3.1.15.3'
+    end
+  # Pods for MVVM_Demo
+
+  target 'MVVM_DemoTests' do
+    inherit! :search_paths
+    # Pods for testing
+
+
+  target 'MVVM_DemoUITests' do
+    # Pods for testing
+  end
+
+end

@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-LXTextField/Pods-LXTextField-frameworks.sh
+${PODS_ROOT}/LookinServer/LookinServer.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
