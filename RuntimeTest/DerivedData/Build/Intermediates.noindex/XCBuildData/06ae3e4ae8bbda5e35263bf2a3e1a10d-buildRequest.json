@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "aa24f1d9d95cc9ce7da982cba4376d04c98cb0ef7c99f0ffe82ed095dac495ef"
+    }
+  ],
+  "containerPath" : "/Users/karisli/karis-space/code/iOS/RuntimeTest/RuntimeTest.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/karisli/karis-space/code/iOS/RuntimeTest/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/karisli/karis-space/code/iOS/RuntimeTest/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/karisli/karis-space/code/iOS/RuntimeTest/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/karisli/karis-space/code/iOS/RuntimeTest/DerivedData/RuntimeTest/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/karisli/karis-space/code/iOS/RuntimeTest/DerivedData/RuntimeTest/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/karisli/karis-space/code/iOS/RuntimeTest/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone11,8",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "12.4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "50049A47-AB60-4C8D-A6DB-2CD00DE16291",
+          "TARGET_DEVICE_MODEL" : "iPhone11,8",
+          "TARGET_DEVICE_OS_VERSION" : "12.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
